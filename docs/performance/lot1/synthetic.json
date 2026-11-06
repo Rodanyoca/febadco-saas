@@ -1,0 +1,169 @@
+{
+  "synthetic": true,
+  "googleCalls": 0,
+  "warmupPairs": 5,
+  "alternatingPairs": 8,
+  "limitations": "No Google or network latency; process CPU timer is coarse; no application baseline or Vercel CPU claim.",
+  "results": [
+    {
+      "mode": "independent",
+      "cpuMs": 0,
+      "elapsedMs": 0.464500000000001,
+      "simulatedReads": 2,
+      "sourceRows": 2000,
+      "returnedRows": 2000,
+      "responseBytes": 28904,
+      "equivalent": true
+    },
+    {
+      "mode": "dedup",
+      "cpuMs": 16,
+      "elapsedMs": 0.3482000000000056,
+      "simulatedReads": 1,
+      "sourceRows": 1000,
+      "returnedRows": 2000,
+      "responseBytes": 28904,
+      "equivalent": true
+    },
+    {
+      "mode": "dedup",
+      "cpuMs": 0,
+      "elapsedMs": 0.21039999999999281,
+      "simulatedReads": 1,
+      "sourceRows": 1000,
+      "returnedRows": 2000,
+      "responseBytes": 28904,
+      "equivalent": true
+    },
+    {
+      "mode": "independent",
+      "cpuMs": 0,
+      "elapsedMs": 0.41679999999999495,
+      "simulatedReads": 2,
+      "sourceRows": 2000,
+      "returnedRows": 2000,
+      "responseBytes": 28904,
+      "equivalent": true
+    },
+    {
+      "mode": "independent",
+      "cpuMs": 0,
+      "elapsedMs": 0.4831000000000074,
+      "simulatedReads": 2,
+      "sourceRows": 2000,
+      "returnedRows": 2000,
+      "responseBytes": 28904,
+      "equivalent": true
+    },
+    {
+      "mode": "dedup",
+      "cpuMs": 0,
+      "elapsedMs": 0.24030000000001905,
+      "simulatedReads": 1,
+      "sourceRows": 1000,
+      "returnedRows": 2000,
+      "responseBytes": 28904,
+      "equivalent": true
+    },
+    {
+      "mode": "dedup",
+      "cpuMs": 0,
+      "elapsedMs": 0.2481999999999971,
+      "simulatedReads": 1,
+      "sourceRows": 1000,
+      "returnedRows": 2000,
+      "responseBytes": 28904,
+      "equivalent": true
+    },
+    {
+      "mode": "independent",
+      "cpuMs": 0,
+      "elapsedMs": 0.6570999999999856,
+      "simulatedReads": 2,
+      "sourceRows": 2000,
+      "returnedRows": 2000,
+      "responseBytes": 28904,
+      "equivalent": true
+    },
+    {
+      "mode": "independent",
+      "cpuMs": 0,
+      "elapsedMs": 0.5353000000000065,
+      "simulatedReads": 2,
+      "sourceRows": 2000,
+      "returnedRows": 2000,
+      "responseBytes": 28904,
+      "equivalent": true
+    },
+    {
+      "mode": "dedup",
+      "cpuMs": 0,
+      "elapsedMs": 0.2741999999999791,
+      "simulatedReads": 1,
+      "sourceRows": 1000,
+      "returnedRows": 2000,
+      "responseBytes": 28904,
+      "equivalent": true
+    },
+    {
+      "mode": "dedup",
+      "cpuMs": 0,
+      "elapsedMs": 0.238900000000001,
+      "simulatedReads": 1,
+      "sourceRows": 1000,
+      "returnedRows": 2000,
+      "responseBytes": 28904,
+      "equivalent": true
+    },
+    {
+      "mode": "independent",
+      "cpuMs": 0,
+      "elapsedMs": 0.45580000000001064,
+      "simulatedReads": 2,
+      "sourceRows": 2000,
+      "returnedRows": 2000,
+      "responseBytes": 28904,
+      "equivalent": true
+    },
+    {
+      "mode": "independent",
+      "cpuMs": 0,
+      "elapsedMs": 0.5536999999999921,
+      "simulatedReads": 2,
+      "sourceRows": 2000,
+      "returnedRows": 2000,
+      "responseBytes": 28904,
+      "equivalent": true
+    },
+    {
+      "mode": "dedup",
+      "cpuMs": 0,
+      "elapsedMs": 0.22360000000000468,
+      "simulatedReads": 1,
+      "sourceRows": 1000,
+      "returnedRows": 2000,
+      "responseBytes": 28904,
+      "equivalent": true
+    },
+    {
+      "mode": "dedup",
+      "cpuMs": 0,
+      "elapsedMs": 0.21270000000001232,
+      "simulatedReads": 1,
+      "sourceRows": 1000,
+      "returnedRows": 2000,
+      "responseBytes": 28904,
+      "equivalent": true
+    },
+    {
+      "mode": "independent",
+      "cpuMs": 0,
+      "elapsedMs": 0.46750000000000114,
+      "simulatedReads": 2,
+      "sourceRows": 2000,
+      "returnedRows": 2000,
+      "responseBytes": 28904,
+      "equivalent": true
+    }
+  ]
+}
